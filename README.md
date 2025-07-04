@@ -1,4 +1,4 @@
-# <img src="logo.png"  width="30"/>  StoryCrafter - AI-Powered Story Generator
+# <img src="logo.png"  width="30"/>  StoryCrafter - Creative Writing Assistant 
 
 StoryCrafter is a web application that uses Google's Gemini 1.5 Flash AI to generate custom stories based on your creative inputs. Simply provide keywords, mood, genre, and a story prompt, and watch as the AI crafts unique narratives tailored to your specifications.
 
