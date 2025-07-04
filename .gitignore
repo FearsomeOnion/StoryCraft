@@ -21,3 +21,7 @@ venv.bak/
 # Secrets
 *.env
 secrets.*
+
+# Documentation
+report.pdf
+report.odt
