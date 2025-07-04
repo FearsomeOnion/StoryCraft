@@ -1,6 +1,6 @@
 # <img src="logo.png"  width="30"/>  StoryCrafter - AI-Powered Story Generator
 
-StoryCrafter is an innovative web application that uses Google's Gemini 1.5 Flash AI to generate custom stories based on your creative inputs. Simply provide keywords, mood, genre, and a story prompt, and watch as the AI crafts unique narratives tailored to your specifications.
+StoryCrafter is an web application that uses Google's Gemini 1.5 Flash AI to generate custom stories based on your creative inputs. Simply provide keywords, mood, genre, and a story prompt, and watch as the AI crafts unique narratives tailored to your specifications.
 
 ## Features
 
@@ -23,14 +23,20 @@ StoryCrafter is an innovative web application that uses Google's Gemini 1.5 Flas
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+- Intuitive navigation of UI components
 
+![](screenshots/sc_1.png)
+- Generate unique stories with customizable settings for Genre, Mood, Content Safety Level, and Creativity. Utilize Advanced Options — including Story Analysis, Element Extraction, and Sequel Generation — for comprehensive AI-assisted story creation.
+
+![](screenshots/sc_7.png)
+![](screenshots/sc_8.png)
+![](screenshots/sc_9.png)
 <br/><br/>
 
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.1+
+- Python 3.10+
 - Streamlit account (optional, for cloud deployment)
 - Google Gemini API key ([Get one here](https://aistudio.google.com/))
 
