@@ -38,7 +38,7 @@ StoryCrafter is an innovative web application that uses Google's Gemini 1.5 Flas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/storycrafter.git
+git clone https://github.com/parva-kothari/storycrafter.git
 cd storycrafter
 ```
 2. Install dependencies:
