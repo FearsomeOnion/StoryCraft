@@ -1,6 +1,6 @@
 # <img src="logo.png"  width="30"/>  StoryCrafter - AI-Powered Story Generator
 
-StoryCrafter is an web application that uses Google's Gemini 1.5 Flash AI to generate custom stories based on your creative inputs. Simply provide keywords, mood, genre, and a story prompt, and watch as the AI crafts unique narratives tailored to your specifications.
+StoryCrafter is a web application that uses Google's Gemini 1.5 Flash AI to generate custom stories based on your creative inputs. Simply provide keywords, mood, genre, and a story prompt, and watch as the AI crafts unique narratives tailored to your specifications.
 
 ## Features
 
@@ -51,9 +51,9 @@ cd storycrafter
 ```bash
 pip install -r requirements.txt
 ```
-3. Set up environment variables:
+3. Set up environment variables (Replace [your_api_key_here] with the gemini api key): 
 ```bash
-echo "GEMINI_API_KEY=your_api_key_here" > .env
+echo GEMINI_API_KEY=[your_api_key_here] > .env
 ```
 4. Run the app:
 ```bash
